@@ -1,11 +1,11 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//YouTube: @SHELVIN
+//Instagram: SHELVIN
+//Telegram: t.me/256702587110
+//GitHub: @SHELVIN
+//WhatsApp: +256702587110
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -14,13 +14,13 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: Shelvin" //ur yt chanel name
+global.socialm = "GitHub: SHELVIN" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
+global.botname = 'Shelvin Bot MD V11' //ur bot name
+global.ownernumber = '256702587110' //ur owner number
 global.ownername = '🦄드림 가이 Xeon' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
